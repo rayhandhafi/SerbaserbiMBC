@@ -1,2 +1,2 @@
 # SerbaserbiMBC
-repo untuk tugas mbcnya dapi
+repo untuk tugas mbcnya 
